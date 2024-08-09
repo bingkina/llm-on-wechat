@@ -1,11 +1,8 @@
 {
   "channel_type": "wx",
-  "model": "",
-  "open_ai_api_key": "YOUR API KEY",
-  "claude_api_key": "YOUR API KEY",
-  "text_to_image": "dall-e-2",
-  "voice_to_text": "openai",
-  "text_to_voice": "openai",
+  "model": "llama3.1:8b", 
+  "ollama_base_url": "http://127.0.0.1",
+  "ollama_port": "11434",
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [

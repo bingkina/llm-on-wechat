@@ -1,7 +1,7 @@
 # 更改
 基于chatgpt-on-wechat，增加使用ollama的本地模型
 - ollama 地址：https://ollama.com
-- 使用的 llama3.1:8b 模型，若使用其他模型
+- 配置文件使用的是 llama3.1:8b 模型，若使用其他ollama模型，模型名称可通过 ollama list 查询
 
 # 简介
 

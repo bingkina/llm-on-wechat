@@ -1,3 +1,8 @@
+# 更改
+基于chatgpt-on-wechat，增加使用ollama的本地模型
+- ollama 地址：https://ollama.com
+- 使用的 llama3.1:8b 模型，若使用其他模型
+
 # 简介
 
 > chatgpt-on-wechat（简称CoW）项目是基于大模型的智能对话机器人，支持微信公众号、企业微信应用、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/Gemini/LinkAI/ChatGLM/KIMI/文心一言/讯飞星火/通义千问/LinkAI，能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业AI应用。

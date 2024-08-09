@@ -1,10 +1,3 @@
-"""
-Ollama bot
-@author JoyCc
-@Date 2024/7/1
-"""
-# encoding:utf-8
-
 from bot.bot import Bot
 from bot.session_manager import SessionManager
 from bridge.context import ContextType, Context

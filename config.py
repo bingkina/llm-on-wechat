@@ -180,7 +180,9 @@ available_setting = {
     # Ollama 平台配置
     "ollama_base_url": "",
     "ollama_port": "",
-
+    #LMS 平台配置
+    "lms_base_url": "",
+    "lms_port": "",
 }
 
 
